@@ -24,11 +24,11 @@ Before you begin, ensure you have the following installed on your system:
 2. **Set Up Python Server**:
    - Clone the repository:
      ```
-     git clone https://github.com/yourgithubusername/kamailio-python-server.git
+     git clone https://github.com/yourgithubusername/kamailio
      ```
    - Navigate into the project directory and install required Python packages:
      ```
-     cd kamailio-python-server
+     cd kamailio
      pip install -r requirements.txt
      ```
 
